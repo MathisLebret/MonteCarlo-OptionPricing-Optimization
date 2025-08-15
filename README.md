@@ -6,6 +6,10 @@ In algorithmic finance, fast reaction to market information is crucial. This pro
 
 While Monte Carlo simulation is excessive for such simple payoffs, the study remains relevant for path-dependent derivatives. The project also includes an analysis of the convergence of the pricing estimator, highlighting the practical trade-offs between accuracy and computational efficiency.
 
+**Average runtime (in seconds) for 10 simulations for different models and different values of N paths:**
+
+<img src="results.png" width="700">
+
 ## Files included
 
 1. A **LaTeX report** ('Project_report.pdf') containing both the mathematical background and application results.
